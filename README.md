@@ -14,5 +14,12 @@ Integrates OSX Dictionary.app with IntelliJ IDEA.
 
 You can look up the selected word in Dictionary.app by `CTRL-CMD-K`.
 
-
 ![dict.gif](dict.gif)
+
+## Author
+
+Kohki Makimoto <kohki.makimoto@gmail.com>
+
+## License
+
+MIT license.
