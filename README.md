@@ -6,13 +6,10 @@ Integrates OSX Dictionary.app with IntelliJ IDEA.
 
 ## Installation
 
-Download the jar file.
+1. [Download latest version jar file](https://github.com/kohkimakimoto/IntelliJDictionaryPlugin/releases/latest)
+1. Install the jar file by [Preferences]->[Plugins]->[Install plugin from disk..]
 
-[Download latest version](https://github.com/kohkimakimoto/IntelliJDictionaryPlugin/releases/latest)
-
-Load the jar file by [Preferences]->[Plugins]->[Install plugin from disc...]
 
 ## Usage
 
 You can look up the selected word in Dictionary.app by `CTRL-CMD-K`.
-
